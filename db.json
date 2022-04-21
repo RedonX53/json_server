@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Muhammad Ahmad",
+      "email": "mian.muhammad.ahmad.53@gmail.com",
+      "password": "787898",
+      "confirmPassword": "787898",
+      "phoneNumber": "03241484353"
+    }
+  ]
+}
